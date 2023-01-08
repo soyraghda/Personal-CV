@@ -14,7 +14,8 @@ hr{
   border: dotted 6px;
   border-bottom: none;
   width: 4%;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
+  margin-top: 40px;
 }
 
 
@@ -67,20 +68,19 @@ left: 500px;
   line-height: 2;
 }
 
-.code-img{
+.code-img, .languages-img{
 width: 25%;
   margin-right: 20px;
   float: left;
 }
-.sports-img{
+.code2-img{
 width: 25%;
-
-    float: right;
+float: right;
 }
 
 .personal-img{
   margin-top: 50px;
-  max-width: 300px;
+  max-width: 200px;
 }
 
 a{
