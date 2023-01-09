@@ -4,7 +4,7 @@ body {
   font-family: 'Merriweather', serif;
 }
 
-.top-cont {
+.top-container {
 
   background-color: #BEEBE9;
   padding-top:200px;
@@ -42,15 +42,13 @@ h3,p{
 
 }
 
-.middle-cont {
-  background-color: blue;
 
 
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 70px;
 }
 
-.bottom-cont {
-  background-color: red;
-}
 
 .top-cloud{
   position: absolute;
@@ -94,7 +92,3 @@ a{
   padding: 200px;
 }
 
-.bottom-container{
-  background-color: #66BFBF;
-  padding: 70px;
-}
